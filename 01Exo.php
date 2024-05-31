@@ -9,8 +9,8 @@ Vous devrez appeler la fonction comme suit : convertirMajRouge($texte) ;</p>
 
 <?PHP
 
-$phrase = "Notre formation DL commence aujourd'hui"; // texte 1
-$nbCharacter = strlen($phrase); // Compte le nombre de caracteres
-Echo "La phrase : $phrase contient $nbCharacter caractères."; // phrases + le nombre de caracteres
+$phrase = "Notre formation DL commence aujourd'hui";            // texte 1
+$nbCharacter = strlen($phrase);                                 // Compte le nombre de caracteres
+Echo "La phrase : $phrase contient $nbCharacter caractères.";   // phrases + le nombre de caracteres
 
 
