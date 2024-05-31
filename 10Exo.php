@@ -10,12 +10,12 @@
 
 $phrase1 = "Montant à payer :";   // Initialisation des phrases.
 $phrase2 = "Montant versé :";     // Initialisation des phrases.
-$phrase3 = "Reste à payer :";     // Initialisation des phrases.
-$phrase4 = "Rendu de monnaie :";  // Initialisation des phrases.
+$phrase3 = "Reste à payer :";                 // Initialisation des phrases.
+$phrase4 = "Rendu de monnaie :";              // Initialisation des phrases.
 
-$montAPayer = 152;                   // Montant à payer
-$montVerser = 200;                   // Montant versé par le client
-$reste = $montVerser - $montAPayer;  // Calcul du reste à rendre
+$montAPayer = 152;                            // Montant à payer
+$montVerser = 200;                            // Montant versé par le client
+$reste = $montVerser - $montAPayer;           // Calcul du reste à rendre
 
 echo "$phrase1 $montAPayer €<br>";            // afficher les montants et texte.
 echo "$phrase2 $montVerser €<br>";            // afficher les montants et texte.

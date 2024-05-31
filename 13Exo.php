@@ -21,4 +21,4 @@ $affNote = implode(", ", $notes);                    // Affiche les éléments d
 echo "$text1 $affNote<br> $text2 $total";            // afficher le texte1 avec les élémemts du tableau - afficher le texte2  avec le total de la moyenne avec 2 decimal
 
 
-// $somme = $notes[0] + $notes[1] + $notes[2] + $notes[3] + $notes[4] + $notes[5] + $notes[6] + $notes[7] + $notes[8];
+// $somme = $notes[0] + $notes[1] + $notes[2] + $notes[3] + $notes[4] + $notes[5] + $notes[6] + $notes[7] + $notes[8]
