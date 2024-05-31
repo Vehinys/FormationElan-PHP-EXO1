@@ -2,7 +2,7 @@
 
 <H2>Le résultat</H2>
 
-<?PHP
+<?php
 
 $age = 10;
 $text1 = "L’enfant qui a ";

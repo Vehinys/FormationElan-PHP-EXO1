@@ -2,7 +2,7 @@
 
 <H2>Le résultat</H2>
 
-<?PHP
+<?php
 
 $phrase = "Engage le jeu que je le gagne";
 $suppEspace = str_replace(" ","", $phrase);

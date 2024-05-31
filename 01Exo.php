@@ -2,7 +2,7 @@
 
 <H2>Le résultat</H2>
 
-<?PHP
+<?php
 
 $phrase = "Notre formation DL commence aujourd'hui";            // texte 1
 $nbCharacter = strlen($phrase);                                 // Compte le nombre de caracteres

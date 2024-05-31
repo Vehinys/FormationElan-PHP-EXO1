@@ -2,7 +2,7 @@
 
 <H2>Le résultat</H2>
 
-<?PHP
+<?php
 
 $text = "Le montant de la facture à régler est de :";
 $prixU = 9.99;

@@ -2,7 +2,7 @@
 
 <H2>Le résultat</H2>
 
-<?PHP
+<?php
 
 $phrase1 = "Montant en francs :";
 $phrase2 = "francs =";
