@@ -1,10 +1,5 @@
 <h1>Exo 12</h1>
 
-<p> a partir d’une fonction personnalisée et à partir d’un tableau de prénoms et de langue associée (tableau contenant clé et valeur), 
-   dire bonjour aux différentes personnes dans leur 
-   langue respective (français ➔ « Salut », anglais ➔ « Hello », espagnol ➔ « Hola ») en utilisant un switch.
-   Exemple : tableau ➔ Mickaël => FRA, Virgile => ESP, Marie-Claire => ENG</p>
-
 <H2>Le résultat</H2>
 
 <?php

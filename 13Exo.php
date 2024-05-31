@@ -1,8 +1,5 @@
 <h1>Exo 13</h1>
 
-<p> Calculer la moyenne générale d'un élève dont les notes sont renseignées dans 
-   un tableau (pas de coefficient). Elle devra être affichée avec 2 décimales.</p>
-
 <H2>Le résultat</H2>
 
 <?php
